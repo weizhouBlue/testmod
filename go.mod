@@ -1,3 +1,3 @@
-module github.com/weizhouBlue/testmod/v5
+module github.com/weizhouBlue/testmod
 
 go 1.12
